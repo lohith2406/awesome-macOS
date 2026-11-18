@@ -218,6 +218,7 @@
 - [Fantastical](https://flexibits.com/fantastical) - Complete Calendar app replacement which uses natural language for creating events.
 - [Hazel](https://www.noodlesoft.com/hazel.php) - Create rules to automatically keep your files organized.
 - [HazeOver](https://hazeover.com/) - Turn distractions down and focus on your current task.
+- [Helix](https://tryhelix.app/) - Radial menu that opens your tools in a circle around the pointer, including clipboard history, screenshots, screen recording and window snapping.
 - [HyperDock](https://bahoom.com/hyperdock/) - Select individual application window.
 - [iCMD](https://icmd.app) - Fuzzy menubar search and vim emulation.
 - [Instant Translate](https://insttranslate.com/mac) - Translate speech and text between 100+ languages from the menu bar.
